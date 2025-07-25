@@ -1,0 +1,14 @@
+Susan Aschner
+Senior IT Business Analyst
+
+Experienced IT professional with a strong background in ServiceNow and IT Asset Management. Proven track record of improving processes and collaborating across departments.
+
+- Led asset audits across departments, improving accuracy by 25%
+- Maintained lifecycle data for hardware and software assets
+- Coordinated with SCCM team for system health checks
+- Familiar with CMDB concepts and ITIL framework
+- Partnered with project managers for onboarding tools
+
+Skills:
+- ServiceNow, SCCM, Excel, stakeholder communication, reporting
+- Certified PMP and ITIL v4 Foundation
